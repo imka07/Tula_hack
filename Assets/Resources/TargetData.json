@@ -1,12 +1,12 @@
 {
 	"TargetList": [
 		{
-			"Name": "CoffeeMachine",
+			"Name": "Bath",
 			"FloorNumber": 0,
 			"Position": {
-				"x": -4.49,
+				"x": -8,
 				"y": 0.00,
-				"z": -1.99
+				"z": -1.5
 			},
 			"Rotation": {
 				"x": 0.0,
@@ -18,9 +18,9 @@
 			"Name": "MainEntrance",
 			"FloorNumber": 0,
 			"Position": {
-				"x": -8.38,
+				"x": -7.55,
 				"y": 0.00,
-				"z": -2.23
+				"z": -7.21
 			},
 			"Rotation": {
 				"x": 0.0,
@@ -32,9 +32,9 @@
 			"Name": "BedRoom",
 			"FloorNumber": 0,
 			"Position": {
-				"x": -1.01,
+				"x": -4,
 				"y": 0.00,
-				"z": -5.31
+				"z": -6
 			},
 			"Rotation": {
 				"x": 0.0,
@@ -46,37 +46,24 @@
 			"Name": "Kitchen",
 			"FloorNumber": 0,
 			"Position": {
-				"x": -6.57,
+				"x": -4.2,
 				"y": 0.00,
-				"z": -0.99
+				"z": -1.7
 			},
 			"Rotation": {
-				"x": 0.0,
+				"x": 0.00,
 				"y": -90.0,
 				"z": 0.0
 			}
 		},
+		
 		{
-			"Name": "StartPoint",
+			"Name": "Toilet",
 			"FloorNumber": 0,
 			"Position": {
-				"x": 0.00,
+				"x": -6.8,
 				"y": 0.00,
-				"z": 0.00
-			},
-			"Rotation": {
-				"x": 0.0,
-				"y": 0.0,
-				"z": 0.0
-			}
-		},
-		{
-			"Name": "LivingRoom",
-			"FloorNumber": 0,
-			"Position": {
-				"x": 0.00,
-				"y": 0.00,
-				"z": 0.00
+				"z": -1.8
 			},
 			"Rotation": {
 				"x": 0.0,

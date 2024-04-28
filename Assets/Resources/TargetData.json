@@ -1,12 +1,12 @@
 {
 	"TargetList": [
 		{
-			"Name": "Bath",
+			"Name": "BedRoom",
 			"FloorNumber": 0,
 			"Position": {
-				"x": -8,
+				"x": -4,
 				"y": 0.00,
-				"z": -1.5
+				"z": -6
 			},
 			"Rotation": {
 				"x": 0.0,
@@ -29,12 +29,12 @@
 			}
 		},
 		{
-			"Name": "BedRoom",
+			"Name": "Bath",
 			"FloorNumber": 0,
 			"Position": {
-				"x": -4,
+				"x": -8,
 				"y": 0.00,
-				"z": -6
+				"z": -1.5
 			},
 			"Rotation": {
 				"x": 0.0,
